@@ -3,7 +3,8 @@ Android Local Keyboard (android-local-keyboard)
 
 This is a public project aiming to unite technically-savvy speakers and sympathisers of local languages under-represented in the Android digital space. With your help let's create an easy framework which can be used to bring any local language to Android devices keyboards, auto-correct features, system dictionaries, text-to-speech and ultimately localised UI.
 
-H1 The plight of local languages in the digital age
+The plight of local languages in the digital age
+------------------------------------------------
 
 Despite the technological advances brought to the digital arena, most of the languages of the world find themselves without any linguistic support in mobile and desktop systems throughout the world. 
 
@@ -16,5 +17,7 @@ In many cases, where users insist on using local languages on keyboards that do 
 
 The plight of local languages is unnecessary, whilst mobile and tablets are widely available and instead of requiring a physical keyboard they can carry as many soft language keyboards as a user deems required for their own intellectual and communication needs, manufacturers have already made available the tools for language inclusion. Nevertheless, the knowledge  required to make this happen is difficult to grasp, sometimes even for developers.
 
+The initiative objective
+------------------------
 
-This is where the Android Local Keyboard initiative fits in: we want to enlist the skills of developers and the efforts of language writers and speakers to create a framework that can be used for other languages to create free and easily installable native language tools such as soft keyboards, dictionaries and glossaries to power up auto-correction, word suggestion and text-to-speech amongst other features.
+This is where the Android Local Keyboard initiative fits in: we want to enlist the skills of developers and the efforts of language writers and speakers to create a framework that can be used to create free and easily installable native language tools such as soft keyboards, dictionaries and glossaries to power up native language auto-correction, word suggestion and text-to-speech amongst other features.
