@@ -1,4 +1,7 @@
-android-local-keyboard
-======================
+Android Local Keyboard (android-local-keyboard)
+===============================================
 
-This is a public project aiming to unite speakers and sympathisers of local languages under-represented in the Android digital space. With your let's create an easy framework which can be used for bringing any local languages to Android devices keyboards, auto-correct, system dictionaries and ultimately localised UI.
+This is a public project aiming to unite technically-savvy speakers and sympathisers of local languages under-represented in the Android digital space. With your help let's create an easy framework which can be used to bring any local language to Android devices keyboards, auto-correct features, system dictionaries, text-to-speech and ultimately localised UI.
+
+
+Despite the technological advances brought to the digital arena, most of the languages of the world find themselves without any linguistic support in mobile and desktop systems throughout the world. The process of disappearance and extinction of those languages is being sped up by lack of options that force native speakers to choose to write on European and other majoritarian languages instead of their own local language. In many cases, where users insist on using local languages on keyboards that do not allow them to write their language properly, the local language is substantially degraded and deturped due to the lack of accents, marks and characters that are either droppedor substituted by others. This results in knowledge that can't be found in search engines, can't be published in knowledge repositories such as Wikipedia, can't be used to power system dictionaries, nor enjoy other language features enjoyed by major languages such as auto-correct, text-to-speech and word word suggestion.
