@@ -12,7 +12,9 @@ If one day someone came up with a keyboard creation software such as Microsoft K
 
 We all agree that the learning curve of both iOS and Android development environments is too steep if you just need to create an installable keyboard and auto-correction glossary. On the other hand, at a cost of normally $3.000 for the development of an African language soft keyboard whose localisation efforts are the addition of a few extra accents and marks to an existing English layout the cost is prohibitive and not easily justifiable to would-be donors and crowdfunding networks.
 
-Until we can develop a keyboard layout creator, the template route is the easiest and cheapest in the sense that the master files are provided with detailed instructions to add letters, accents and marks for a keyboard and a list of words in a language for a glossary. One would just need to go to these files and change the parts that are needed and soon an endangered language would start to have a fighting chance to survive the digital age along with its poetry, history, oral literature and culture.
+Until we can develop a keyboard layout creator, the creation of template workframe is the easiest and cheapest in the sense that the master files are provided with detailed instructions to add letters, accents and marks for a keyboard and a list of words in a language for a glossary, these instructions would be complemented with directions on how to make them installbale and how to publish them so that more users can find them. 
+
+A framework as such would give endangered languages a fighting chance to survive the digital age along with its poetry, history, oral literature and culture.
 
 
 The plight of local languages in the digital age
