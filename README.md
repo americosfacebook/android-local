@@ -5,17 +5,14 @@ Despite the technological advances brought to the digital arena and Google's own
 
 This is a public project aiming to simplify the inclusion of thousands of still under or completely non-represented languages in the Android digital space. With your help we aim to develop an easy-to-use templating framework for local teams and volunteers to effortlessly create soft keyboards, auto-correct glossaries, system dictionaries, text-to-speech banks and ultimately localised UI for Android devices in their own languages.
 
-So how would this work exactly?
--------------------------------------------
-
-If one day someone came up with a keyboard creation software such as Microsoft Keyboard Layout Creator or Ukelele for Android and iOS we would have the digital curve tamed for the inclusion of all languages in mobiles and tablets.
-
-We all agree that the learning curve of both iOS and Android development environments is too steep if you just need to create an installable keyboard and auto-correction glossary. On the other hand, at a cost of normally $3.000 for the development of an African language soft keyboard whose localisation efforts are the addition of a few extra accents and marks to an existing English layout the cost is prohibitive and not easily justifiable to would-be donors and crowdfunding networks.
-
-Until we can develop a keyboard layout creator, the creation of template workframe is the easiest and cheapest in the sense that the master files are provided with detailed instructions to add letters, accents and marks for a keyboard and a list of words in a language for a glossary, these instructions would be complemented with directions on how to make them installbale and how to publish them so that more users can find them. 
-
 A framework as such would give endangered languages a fighting chance to survive the digital age along with its poetry, history, oral literature and culture.
 
+Aren't the tools out there already?
+-------------------------------------------
+
+We all agree that the learning curve of the Android development environment is too steep if you just need to create an installable keyboard and auto-correction glossary. In fact, if someone came up with a keyboard creation software such as Microsoft Keyboard Layout Creator or Ukelele for Android and iOS we would have the digital curve tamed for the inclusion of local languages in mobiles and tablets and this project could move on to producing keyboards and features already.
+
+On the other hand, at a cost of normally $3.000 for the development of an African language soft keyboard whose localisation efforts are the addition of a few extra accents and marks to an existing English layout the cost is prohibitive and not easily justifiable to would-be donors and crowdfunding networks.
 
 The plight of local languages in the digital age
 --------------------------------------------------------------
