@@ -1,7 +1,7 @@
 Android Local (android-local)
 =======================================
 
-Despite the technological advances brought to the digital arena and Google's own localisation efforts, most of the languages of the world find themselves without linguistic support in Android mobiles and tablets.
+Despite the technological advances brought to the digital arena and Google's own localisation efforts, most of the languages of the world find themselves without linguistic representation in Android mobiles and tablets.
 
 This is a public project aiming to simplify the inclusion of thousands of still under or completely non-represented languages in the Android digital space. With your help we aim to develop an easy-to-use templating framework for local teams and volunteers to effortlessly create soft keyboards, auto-correct glossaries, system dictionaries, text-to-speech banks and ultimately localised UI for Android devices in their own languages.
 
