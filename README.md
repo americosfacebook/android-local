@@ -14,6 +14,12 @@ We all agree that the learning curve of the Android development environment is t
 
 On the other hand, at a cost of normally $3.000 for the development of an African language soft keyboard whose localisation efforts are the addition of a few extra accents and marks to an existing English layout the cost is prohibitive and not easily justifiable to would-be donors and crowdfunding networks.
 
+Aren't there keyboard and auto-correct apps covering many more languages?
+--------------------------------------------------------
+
+Nobody should have to pay even a cent to be able to write in their own language. Local language support must be easy to install and not require a separate workframe, user profile, separate app environment to be used. Language support shouldn't raise scary security warnings such as "everything you type can be shared with the app developer", no way, end of the story.
+
+
 The plight of local languages in the digital age
 --------------------------------------------------------------
 
