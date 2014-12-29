@@ -5,12 +5,12 @@ Despite the technological advances brought to the digital arena and Google's own
 
 This is a public project aiming to simplify the inclusion of thousands of still under or completely non-represented languages in the Android digital space. With your help we aim to develop an easy-to-use templating framework for local teams and volunteers to effortlessly create soft keyboards, auto-correct glossaries, system dictionaries, text-to-speech banks and ultimately localised UI for Android devices in their own languages.
 
-A framework as such would give endangered languages a fighting chance to survive the digital age along with its poetry, history, oral literature and culture.
+A framework as such would give digitally endangered languages a fighting chance to survive the digital age along with their poetry, history, oral literature and culture.
 
 Aren't the tools out there already?
 -------------------------------------------
 
-We all agree that the learning curve of the Android development environment is too steep if you just need to create an installable keyboard and auto-correction glossary. In fact, if someone came up with a keyboard creation software such as Microsoft Keyboard Layout Creator or Ukelele for Android and iOS we would have the digital curve tamed for the inclusion of local languages in mobiles and tablets and this project could move on to producing keyboards and features already.
+We all agree that the learning curve of the Android development environment is too steep if you just need to create an installable keyboard and auto-correction glossary. In fact, if someone came up with a keyboard creation software such as Microsoft Keyboard Layout Creator or Ukelele for Android we would have the digital curve tamed for the inclusion of local languages in mobiles and tablets and this project could move on to producing keyboards and features already.
 
 On the other hand, at a cost of normally $3.000 for the development of an African language soft keyboard whose localisation efforts are the addition of a few extra accents and marks to an existing English layout the cost is prohibitive and not easily justifiable to would-be donors and crowdfunding networks.
 
