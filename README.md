@@ -23,6 +23,8 @@ Nobody should have to pay even a cent to be able to write in their own language.
 The plight of local languages in the digital age
 --------------------------------------------------------------
 
+You can read my full article on my LinkedIn profile: https://www.linkedin.com/pulse/why-i-believe-almost-all-african-languages-endangered-luis-morais
+
 The process of disappearance and extinction of thousands of local languages is being sped up by the lack of elementary digital language tools. This constraint forces native speakers to write on European and other majoritarian languages instead of their own local language.
 
 In many cases, where users insist on using their own local languages on keyboards that do not allow them to write their language properly, their language is substantially degraded and deturped due to the lack of accents, marks and characters that are either dropped or substituted by similar but wrong characters. 
